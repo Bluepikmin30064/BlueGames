@@ -1,0 +1,9 @@
+[Lugar/Parte]
+1 = "id de personaje"
+2 = "id de personaje"
+
+(accion o evento)
+1: "Texto"
+2: "Texto en respuesta"
+1: *Pensamiento*
+NPC.Jack: "texto"
