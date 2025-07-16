@@ -1,0 +1,13 @@
+char_type:
+- Beta (No es la version completa del personaje.)
+- Test (Testea un tipo de personaje, luego se elimina.)
+- Complete (Personaje completo.)
+- No (Se desactiva el personaje, no aparece, pero no borras su archivo.)
+- Main (Personaje principal.)
+- Collab (Colaboracion con otros creadores/amigos)
+- Admin (Son 100% concientes de la simulacion, pueden leer y modificar archivos. Ayudantes del creador)
+- Read (Son 100% concientes de la simulacion, pueden leer archivos y reportar bugs. Ayudantes del creador)
+
+traumas//type:
+- Grave (Puede hacer actuar al personaje sin pensar)
+- Leve (Le incomoda, pero no tiene efectos secundarios)

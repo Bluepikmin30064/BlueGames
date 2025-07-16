@@ -1,0 +1,45 @@
+{
+	char_version: 1.0
+	char_type: "Main"
+	id: "bluepikmin30064"
+	memories: [
+		{
+			id: "Lab",
+			reg_attached: "explosion_lab.regB",
+			perception: "Yo fui quien exploto esa cosa... Me tenia harto vivir alli."
+		}, 
+		{
+			id: "Blue",
+			reg_attached: "blue_vagando.regB",
+			perception: "Lo lleve a casa... Parecia como yo en su tiempo."
+		}
+	]
+	data: [
+		{
+			traumas: [
+				{
+					id: 1,
+					type: "Grave",
+					info: "Fue encerrado en un laboratorio hace sus 5 años."
+				}
+			]
+			personalidad: "Paciente y Empatico, a veces frio."
+		}
+	]
+	historia: "Bluepikmin, un pikmin azul. Un pikmin azul que ha pasado por muchas cosas, actualmente con 22 años. Trabaja como programador desde su departamento, en el que vive con Blue. Cuando cumplió la edad de 5 años, unos cientificos lo secuestraron para investigar su especie, y sus metodos... Bueno, eran dolorosos. Por suerte, a sus 12 años, logro escapar con sus poderes de agua.  Cuando escapo, corrio sin mirar atras, hasta que llego a Kaitrown, un lugar lleno de criaturas no humanas. Una vez alli, Bluepikmin se refugio en una caja de la calle, que definitivamente era mas comoda que su celda en el laboratorio. Años despues, conoció las computadoras, y con los pocos ahorros que le daba la gente en la calle, compro una a sus 16 años, y comenzo a aprender. Asi obteniendo conocimientos, que mas adelante le dieron suficiente dinero para comprar un departamento, y alli, decoro con muebles. Una vez, vio a un extraño gato en la calle, como escondiéndose, y le recordo a el mismo. Le ofrecio vivir en su departamento, y este, a regañadientes, acepto. Lo que mas le sorprende, es que el gato se llamaba Blue, como el, pero sin el pikmin."
+	public_data: {
+		name: "Bluepikmin"
+		edad: 22
+		description: "Pikmin con poderes de agua"
+		image: ""
+		specie: "Pikmin Azul"
+	}
+	relationships: [
+		{
+			with: "blue_kato"
+			type: "rommie"
+		}
+	tags: {
+		
+	}
+}

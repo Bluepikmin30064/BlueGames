@@ -1,0 +1,45 @@
+{
+	char_version: 1.0
+	char_type: ""
+	id: "id del personaje"
+	memories: [
+		{
+			id: "nombre de memoria",
+			reg_attached: "nombre.regB",
+			perception: "texto extra"
+		}, 
+		{
+			id: "nombre de memoria",
+			reg_attached: "nombre.regB",
+			perception: "texto extra"
+		}
+	]
+	data: [
+		{
+			traumas: [
+				{
+					id: numero de trauma
+					type: "tipo de trauma",
+					info: "detalles del trauma"
+				}
+			]
+			personalidad: "personalidad"
+		}
+	]
+	historia: "Lore entero"
+	public_data: {
+		name: "Nombre"
+		edad: numero
+		description: "descripcion breve"
+		image: ".png"
+		specie: "especie"
+	}
+	relationships: [
+		{
+			with: "id de personaje"
+			type: "tipo de relacion"
+		}
+	tags: {
+		custom: "custom"
+	}
+}
