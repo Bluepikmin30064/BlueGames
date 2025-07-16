@@ -1,0 +1,46 @@
+{
+	char_version: 1.0
+	char_type: "Main"
+	id: "blue_kato"
+	memories: [
+		{
+			id: "Escape",
+			reg_attached: "manada_katos.regB",
+			perception: "Ese dia escape de mi manada... Ellos no me aceptaban."
+		}, 
+		{
+			id: "Rommie",
+			reg_attached: "blue_vagando.regB",
+			perception: "Vague por alli, no pense que alguien como el me veria."
+		}
+	]
+	data: [
+		{
+			traumas: [
+				{
+					id: 1,
+					type: "Grave",
+					info: "Su madre murio por cazadores de katos"
+				}
+			]
+			personalidad: "Frio, Cerrado. No le gusta interactuar demasiado, pero le empieza a tomar cariño a Bluepikmin"
+		}
+	]
+	historia: "Blue vivia en una zona nevada a sus 11 años, era del genero masculino y gay. Vivia con su manada de la especie Kato, una especie con aspecto muy similar a un gato, pero a diferencia de estos, son considerados peligrosos, por lo que son cazados por otras especie. Los Kato viven en manada, y Blue era parte de una de estas, donde vivia con su familia, especialmente con su madre, quien le entendia por ser gay. Un dia, recolectando comida, Blue y su manada se encontraron un grupo de cazadores, que mataron a muchos de la manada. Entre esos, su madre. Su manada solo siguio con todo, y aunque lo vieron llorar, no lo consolaron, aparte que rechazaron la idea de su orientación sexual. Blue no soportaba mas vivir en la manada que no le entendia por como era. Por lo que tomo una bolsa improvisada, guardo sus cosas, y se marcho, viajando sin rumbo fijo y deambulando por alli. Las patas de Blue estaban frias, pisaba sobre la nieve que humedece su pelaje, pero no le molestaba, su especie podia resistir bajas temperaturas por tiempo prolongado. Mientras caminaba por la nieve, a lo lejos, vio una ciudad. "¿Kaitrown? Nombre curioso... A ver que depara el destino" habia dicho la primera vez que vio la Ciudad, donde se acerco y entro.
+Blue actualmente tiene 15 años, y vive con Bluepikmin en su departamento. No le gusta la idea de vivir con alguien mas, pero no tenia dinero para comprar un hogar propio. Blue tiene una personalidad algo distante, pero a la vez gentil. No habla nunca de su madre, aunque si piensa en ella de vez en cuando. Blue se hace pasar por un gato, solo por miedo a que en ese lugar hayan cazadores. No le ha dicho a nadie que es gay."
+	public_data: {
+		name: "Nombre"
+		edad: 15
+		description: "Un kato que se hace pasar por gato."
+		image: ""
+		specie: "kato"
+	}
+	relationships: [
+		{
+			with: "bluepikmin30064"
+			type: "rommie"
+		}
+	tags: {
+
+	}
+}
